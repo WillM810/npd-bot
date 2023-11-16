@@ -72,7 +72,7 @@ export default class LegCommand extends BaseCommand {
     };
 
     static handleMessage(message) {
-        if (message.mentions.users.has(USERS.ME) && message.content.toLowerCase().split(' ')[1].substr(0, 3) === 'leg') {
+        if (message.mentions.users.has(USERS.ME) && message.content.toLowerCase().split(' ')[1] === 'leg') {
             const reply = {
                 'msg': {
                     'data': {
