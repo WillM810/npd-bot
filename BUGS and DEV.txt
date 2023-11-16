@@ -1,0 +1,60 @@
+Dev Plan:
+    Migrate to Mongo
+        Ballots
+        Quorums
+        Polls
+        Presence
+        Rules
+        Delegates
+        Preferences
+        Meetings
+        Minutes
+    Setup "Contacts"
+        Types:
+            Legislators
+            Voters
+            Donors
+            Members
+            LP Leads
+            LP Members
+            Leads
+            Press
+    Setup Legislation
+        Committees
+        Topics
+        LPD Actions
+        Voter
+        Bills
+        Sponsors
+        Whip Counts
+    Blogger/Drive/FB Integration
+        Streamline Minutes/Agenda/Announcement Posts
+        Read Drive file
+        Get HTML
+        Convert to PNG
+        Post PNG
+        Post to Blogger
+        Post to FB
+    Convention
+        Automated Posting
+    Twitter
+    Email Retrieval/Sorting/Forwarding
+    Email Blasting
+    Email Lists/Groups Integration
+    Phone/Text Banking
+    Interaction Tracking
+    Action Items
+    Door Knocking
+    Locator
+    Volunteer Registration
+    Voice Integration
+    Events/Calendar Integration
+    Legislation Info
+    Ballots
+    Server Configuration?
+    Auto-Mailer
+        Legislature
+        Letter to the Editor
+        LPD Staff
+    Secret Approval Voting:
+        

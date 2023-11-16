@@ -1,0 +1,40 @@
+{
+  "name": "lpddiscordbot",
+  "version": "0.0.1",
+  "description": "Discord Bot for the LPD Discord Server",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citizenslave/lpdDiscordBot.git"
+  },
+  "keywords": [
+    "discord",
+    "lpd"
+  ],
+  "author": "Will McVay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/citizenslave/lpdDiscordBot/issues"
+  },
+  "homepage": "https://github.com/citizenslave/lpdDiscordBot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "cheerio": "^1.0.0-rc.10",
+    "discord.js": "^13.8.1",
+    "emailjs": "^3.7.0",
+    "ffmpeg": "0.0.4",
+    "form-data": "^4.0.0",
+    "googleapis": "^73.0.0",
+    "googlephotos": "^0.3.4",
+    "html-entities": "^2.3.2",
+    "mongodb": "^4.4.1",
+    "node-html-to-image": "^3.2.4",
+    "sharp": "^0.30.2",
+    "ytdl-core": "^4.8.3",
+    "ytdl-core-discord": "^1.3.1"
+  },
+  "type": "module"
+}

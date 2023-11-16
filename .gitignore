@@ -1,0 +1,6 @@
+constants/creds.js
+data/credentials.json
+data/token.json
+node_modules/
+.gitcredentials
+command-controller/commands/debug.js
