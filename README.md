@@ -1,2 +1,2 @@
-# lpdDiscordBot
-Bot for the LPD's Discord Server
+# npd-bot
+Bot for the NPD's Discord Server
